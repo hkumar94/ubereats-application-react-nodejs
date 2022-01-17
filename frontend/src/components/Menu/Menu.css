@@ -1,0 +1,76 @@
+
+  .RestoMenuProfileContainer {
+    margin-left: 1em;
+    max-width: 200em;
+    margin-top: 7em;
+    padding: 1em 3em 2em 3em;
+    margin: 0em auto;
+    background-color: #0e010100;
+    border-radius: 3px * 1.4;
+    box-shadow: 0px 3px 10px -2px rgba(234, 238, 232, 0.877);
+    opacity: 100;
+    max-height: 50em;
+    margin-right: 0em;
+   }
+
+   .profileMenuLabel {
+
+    text-align:center;
+    font-size:20px;
+    color: #000000;
+    padding-left: 600px;
+    width: 150px;
+  }
+
+  .edit-menu-btn-primary {
+    background: #0d0e0d;
+    color: #ffffff;
+    font-size: 14px;
+    width: 10em;
+    height: 50px;
+    line-height: 10px;
+    padding-left: -40px;
+    padding: 10px;
+  }
+  .delete-menu-btn-primary {
+    background: #0d0e0d;
+    color: #ffffff;
+    font-size: 14px;
+    width: 10%;
+    height: 50px;
+    line-height: 10px;
+    padding-left: -40px;
+  }
+
+  .menu-section-btn-primary {
+    background: #0d0e0d;
+    color: #ffffff;
+    font-size: 14px;
+    width: 17em;
+    height: 50px;
+    line-height: 10px;
+    padding-left: -40px;
+    padding: 10px;
+  }
+
+  .restoMenuSectionContainer {
+    margin-left: 1em;
+    max-width: 20em;
+    margin-top: 9em;
+    padding: 1em 3em 2em 3em;
+    margin: 2em auto;
+    background-color: #0e010100;
+    border-radius: 3px * 1.4;
+    box-shadow: 0px 3px 10px -2px rgba(234, 238, 232, 0.877);
+    opacity: 100;
+    max-height: 100em;
+    margin-right: 35em;
+   }
+
+   .menuViewContainer {
+     padding-right: 50em;
+   }
+
+
+
+  

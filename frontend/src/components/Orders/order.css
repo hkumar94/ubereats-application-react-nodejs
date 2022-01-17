@@ -1,0 +1,13 @@
+.orderBillView {
+    padding-right: 40em;
+    max-width: 20em;
+}
+
+.restaurantOrderHistory {
+    padding-right: 20em;
+    max-width: 40em;
+}
+
+.customerOrder {
+    max-width: 50em;
+}

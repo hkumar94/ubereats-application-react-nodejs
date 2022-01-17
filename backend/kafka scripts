@@ -1,0 +1,21 @@
+Kafka scripts
+
+zkserver
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+
+kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic <TOPIC>
+kafka-topics --create --zookeeper localhost:9092 --replication-factor 1 --partitions 1 --topic <TOPIC>
+
+
+
+#topics
+
+kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic customer
+kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic restaurant
+kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic menu
+kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic menusection
+kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic cart
+kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic order
+
+
+

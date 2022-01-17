@@ -1,0 +1,11 @@
+.cartbackground {
+  background-image: url(../../assets/cartBackgroundImage.jpg); opacity: 10;
+  background-size: 100%;
+  max-width: 100%;
+}
+
+.cartContainer {
+    padding-right: 2em;
+    background-color: rgb(255, 254, 254);
+    color: #000000;
+}
